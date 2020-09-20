@@ -13,3 +13,6 @@
 8. Text Cleaning: Spelling Correction
 9. Scraping Hub Tutorial
 10. Regular Expression for cleaning
+
+
+[data_acquisition.png](./data_acquisition.png)
