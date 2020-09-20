@@ -15,4 +15,4 @@
 10. Regular Expression for cleaning
 
 
-![data_acquisition.png](./data_acquisition (1).png)
+![data_acquisition.png]('./data_acquisition (1).png')
