@@ -16,3 +16,8 @@
 
 
 ![data_acquisition.png](./data_acquisition.png)
+
+
+# Resources
+- https://towardsdatascience.com/super-simple-way-to-scrape-bbc-news-articles-in-python-5fe1e6ee82d9
+- https://www.freecodecamp.org/news/scraping-wikipedia-articles-with-python/
